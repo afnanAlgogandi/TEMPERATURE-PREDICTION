@@ -1,4 +1,4 @@
-# TEMPERATURE PREDICTIO
+# TEMPERATURE PREDICTION
  developed a model that can predict air temperature according to atmospheric pressure.
  
 In this project we used "Saudi Arabia weather history" dataset from Kaggle.
